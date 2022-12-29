@@ -1,12 +1,6 @@
-<a target="_blank" href="">
-    <img width="100px" src="./assets\img\screencapture.png" alt="astronaut">
-</a>
-<br>
-<br>
+<h1>Projeto de Tela de login animada 😁👍🚀🧑‍🚀</h1>
 
-Projeto de Tela de login animada 😁👍🚀🧑‍🚀
-
-Site responsivo, estilizado com algumas @media query's e animação criado para tela de login acompanhando vídeo do canal <a target="_blank" href="https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel">"Markzuel"<img width="100px" src="./assets\img\channels4_profile.jpg" alt="canal-markzuel">no youtube.
+Pagina de login responsiva, estilizada com algumas media query's e animação crianda no site <a href="https://storyset.com/">STORYSET</a> acompanhando vídeo do canal do youtube "Markzuel" <a target="_blank" href="https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel"><img width="30px" src="./assets\img\channels4_profile.jpg" alt="canal-markzuel" >.
 
 TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
@@ -18,8 +12,6 @@ Ou curta a imagen logo abaixo! 😁😍👍👽
 
 
 Obrigado pela visita. (●'◡'●) 
-<br>
-<br>
 <br>
 <br>
 
