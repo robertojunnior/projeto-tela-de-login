@@ -1,12 +1,30 @@
  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
 
 body {
+    background: #201b2c;
     margin: 0;
     font-family: 'Noto Sans', Arial, Helvetica, sans-serif;
 }
 
 body * {
     box-sizing: border-box;
+}
+
+.logo-git {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#back-git {
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -4px;
+}
+
+#back-git > a {
+    color: aliceblue;
+    text-decoration: none;
 }
 
 .main-login {
@@ -144,5 +162,10 @@ body * {
     .right-login {
         width: 90vw;
         height: auto;
+    }
+
+    .logo-git > img {
+        width: 20px;
+        height: 20px;
     }
 }
