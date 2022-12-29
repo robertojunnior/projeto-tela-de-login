@@ -130,7 +130,12 @@ body * {
     background: #77ffc0;
     cursor: pointer;
     /* cursor: pointer altera o ponteiro assim para clique assim que o mouse passa por cima */
-    box-shadow: 0px 10px 40px -8px #00ff8052;
+    box-shadow: 0px 10px 40px -5px #00ff8052;
+}
+
+.btn-login:hover {
+    transform: scale(0.95);
+    transition: all 1s;
 }
 
 @media only screen and (max-width: 940px) {
