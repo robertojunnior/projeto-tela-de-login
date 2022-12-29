@@ -1,6 +1,6 @@
 <h1>Projeto Tela de login animada 😁👍🚀🧑‍🚀</h1>
 
-Página de login responsiva, estilizada com algumas media query's e animação criada no site <a href="https://storyset.com/">STORYSET</a> que por sinal é INCRÍVEL  😂😁🚀 acompanhando vídeo do canal no youtube chamado "Markzuel", você também pode assistir o conteúdo clicando na imagem ao lado 👉 <a target="_blank" href="https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel"><img width="30px" src="./assets/img/channels4_profile.jpg" alt="canal-markzuel" >.
+Página de login responsiva, estilizada com algumas media query's e animação criada no site <a href="https://storyset.com/">STORYSET</a> que por sinal é INCRÍVEL  😁 acompanhando vídeo do canal no youtube chamado "Markzuel", você também pode assistir o conteúdo clicando na imagem ao lado 👉 <a target="_blank" href="https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel"><img width="30px" src="./assets/img/channels4_profile.jpg" alt="canal-markzuel" >.
 
 TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
