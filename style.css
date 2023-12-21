@@ -111,7 +111,7 @@
      padding: 15px 0px;
      border: none;
      border-radius: 10px;
-     margin: 25px;
+     margin: 25px 0 0;
      outline: none;
      text-transform: uppercase;
      font-weight: 800;
@@ -126,4 +126,9 @@
  .btn-login:hover {
      transform: scale(0.95);
      transition: all 1s;
+ }
+
+ .botao_git {
+
+     padding: 10px;
  }
