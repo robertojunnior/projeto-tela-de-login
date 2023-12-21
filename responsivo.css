@@ -1,13 +1,7 @@
- @media only screen and (max-width: 940px) {
-     .card-login {
-         width: 85%;
-     }
- }
-
  @media only screen and (max-width: 600px) {
-     /* .main-login {
+     .main-login {
          flex-direction: column;
-     } */
+     }
 
      .left-login>h1 {
          display: none;
@@ -36,8 +30,18 @@
 
  }
 
+ @media only screen and (max-width: 940px) {
+     .card-login {
+         width: 85%;
+     }
+
+     .main-login {
+         flex-direction: column;
+     }
+ }
+
  /* para uso em monitor ultra-wide */
- @media only screen and (min-width: 120rem) {
+ @media only screen and (min-width: 1920px) {
      body {
          margin: 0;
      }
@@ -59,5 +63,4 @@
          justify-content: center;
          align-items: center;
      }
-
  }
