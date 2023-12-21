@@ -141,26 +141,26 @@
      transition: all 1s;
  }
 
- /* @media only screen and (max-width: 940px) {
+ @media only screen and (max-width: 940px) {
      .card-login {
          width: 85%;
      }
- } */
+ }
 
- @media only screen and (max-width: 940px) {
+ /* @media only screen and (max-width: 940px) {
      .main-login {
          flex-direction: column;
      }
 
      .left-login>h1 {
          display: none;
-         /* faz com que o título desapareça com a regra dos 600px */
+         /* faz com que o título desapareça com a regra dos 600px 
      }
 
      .left-login {
          width: 100vw;
          height: auto;
-         /* height: pode ser auto para mobile pois refere-se a div */
+         /* height: pode ser auto para mobile pois refere-se a div 
      }
 
      .left-login-img {
@@ -180,9 +180,9 @@
      .card-login {
          width: 85%;
      }
- }
+ } */
 
- /* para uso em monitor ultra-wide */
+ /* para uso em monitor ultra-wide 
  @media only screen and (min-width: 120px) {
      body {
          margin: 0;
@@ -206,4 +206,4 @@
          align-items: center;
      }
 
- }
+ } */
