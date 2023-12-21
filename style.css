@@ -185,7 +185,7 @@
  /* para uso em monitor ultra-wide */
  @media only screen and (min-width: 120px) {
      body {
-         margin: ;
+         margin: 0;
      }
 
      .left-login>h1 {
