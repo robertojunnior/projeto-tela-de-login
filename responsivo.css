@@ -5,9 +5,9 @@
  }
 
  @media only screen and (max-width: 600px) {
-     .main-login {
+     /* .main-login {
          flex-direction: column;
-     }
+     } */
 
      .left-login>h1 {
          display: none;
@@ -37,7 +37,7 @@
  }
 
  /* para uso em monitor ultra-wide */
- @media only screen and (min-width: 120px) {
+ @media only screen and (min-width: 120rem) {
      body {
          margin: 0;
      }

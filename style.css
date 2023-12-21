@@ -29,6 +29,7 @@
      text-decoration: none;
  }
 
+ /* usando display flex na class main-login colocamos os itens que antes estavam sobrepostos como lado a lado */
  .main-login {
      width: 100vw;
      height: 100vh;
@@ -37,8 +38,6 @@
      justify-content: center;
      align-items: center;
  }
-
- /* usando display flex na class main-login colocamos os itens que antes estavam sobrepostos como lado a lado */
 
  .left-login {
      width: 50vw;
