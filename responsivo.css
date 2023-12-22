@@ -23,16 +23,15 @@
          height: auto;
      }
 
-     .logo-git>img {
-         width: 20px;
-         height: 20px;
-     }
-
  }
 
  @media only screen and (max-width: 940px) {
      .card-login {
          width: 85%;
+     }
+
+     .card-login>h1 {
+         margin-top: -10px;
      }
 
      .main-login {
