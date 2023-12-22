@@ -120,9 +120,8 @@
      background: #77ffc0;
      /* cursor: pointer altera o ponteiro assim para clique assim que o mouse passa por cima */
      cursor: pointer;
-
      box-shadow: 0px 10px 40px -5px #00ff8052;
-     text-decoration: none;
+     text-align: center;
  }
 
  .btn-login:hover {
@@ -131,6 +130,5 @@
  }
 
  .botao_git {
-     text-align: center;
      padding: 10px;
  }
