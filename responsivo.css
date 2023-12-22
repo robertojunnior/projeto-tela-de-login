@@ -23,6 +23,10 @@
          height: auto;
      }
 
+     .botao-git {
+         margin-bottom: -10px;
+     }
+
  }
 
  @media only screen and (max-width: 940px) {
