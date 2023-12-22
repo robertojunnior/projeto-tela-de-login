@@ -124,11 +124,12 @@
      text-align: center;
  }
 
- .btn-login:hover {
+ .btn-login:hover,
+ .botao-git:hover {
      transform: scale(0.95);
      transition: all 1s;
  }
 
- .botao_git {
-     padding: 7px;
+ .botao-git {
+     margin-top: 25px;
  }
