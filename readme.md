@@ -17,6 +17,6 @@ Obrigado pela visita. (●'◡'●)
 
 <div align="center">
 <a target="_blank" href="https://robertojunnior.github.io/projeto-tela-de-login/">
-    <img width="" src="./assets/img/screencapture.png" alt="site-mundo-geek">
+    <img width="" src="./assets/img/mockup-github-telaLogin.png" alt="site-mundo-geek">
 </a>
 </div>
