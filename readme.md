@@ -7,6 +7,8 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 - HTML5;
 - CSS3;
 
+- Adicionei ao conteúdo um modal após clicar no login, para exibir a mensagem "Login realizado com sucesso".
+
 Para visualizar o projeto é só <a target="_blank" href="https://robertojunnior.github.io/projeto-tela-de-login/"> Clicar aqui!</a>. <br>
 Ou curta a imagen logo abaixo! 😁😍👍👽
 
