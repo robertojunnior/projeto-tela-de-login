@@ -14,7 +14,7 @@
 <body>
     <div class="main-login">
         <div class="left-login">
-            <h1>Faça login<br>E entre para nosso time</h1>
+            <h1>Faça login<br>para entrar nosso time</h1>
             <img class="left-login-img" src="./assets/img/astronaut.svg" alt="astronaut">
         </div>
 
@@ -32,7 +32,14 @@
                     <!-- placeholder: é o texto que aparece no input e label que será substituído pelo texto ue irá digitar -->
                 </div>
 
-                <button class="btn-login">Entrar</button>
+                <button class="btn-login" onclick="">Entrar</button>
+                <div id="loginModal" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <p>Login realizado com sucesso!</p>
+                    </div>
+                </div>
+                <!-- ...código existente... -->
 
                 <a class="botao-git" href="https://github.com/robertojunnior/projeto-tela-de-login">
                     <img width="45px" src="./assets/img/icone-git-green.png" alt="icone-git">
@@ -41,5 +48,6 @@
         </div>
     </div>
 </body>
+<script src="script.js"></script>
 
 </html>
